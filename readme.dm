@@ -13,5 +13,12 @@
 9- git diff
 10- git resest
 11- git log
-12- 
+12- git branch -d new_branch
+13- git merge master
+14- git reset HEAD~1
+15- git reset haschode_fromgit_log
+16- git add -p filename
+17- git merge --abort
+18- git log --oneline
+19- git reset --hard haschode_fromgit_log
 change made from branch
